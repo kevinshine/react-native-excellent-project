@@ -51,3 +51,14 @@ Source code of the official F8 app of 2016, powered by React Native and other Fa
 
 <img src="https://github.com/fbsamples/f8app/blob/master/.github/screenshot-app%402x.png" width="800">
 
+----------
+
+## [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native)
+
+The is a Zhihu Daily App client, implemented using React Native. This project can run on both Android and iOS, with more than 80% of code in common. This is a demo project to show how to develop a complete app with React Native. 
+
+***Screen***
+
+<img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/home1.jpg" >
+<img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/drawer.jpg" >
+<img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/content.jpg" >

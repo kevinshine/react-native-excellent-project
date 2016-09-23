@@ -48,5 +48,5 @@ The ideal starting app for React Native, best practices, generators, and more.
 Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
 
 ***Screen***
-<img src=".github/screenshot-app@2x.png" width="800">
+<img src="https://github.com/fbsamples/f8app/blob/master/.github/screenshot-app%402x.png" width="800">
 

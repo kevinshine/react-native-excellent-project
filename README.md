@@ -62,3 +62,5 @@ The is a Zhihu Daily App client, implemented using React Native. This project ca
 <img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/home1.jpg" >
 <img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/drawer.jpg" >
 <img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/content.jpg" >
+
+----------

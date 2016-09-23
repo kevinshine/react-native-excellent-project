@@ -32,3 +32,11 @@ A React-Native starter mobile app, or maybe just an example, or maybe a boilerpl
 | Android |![Android Register](https://cloud.githubusercontent.com/assets/1282364/11598579/6d3487b8-9a88-11e5-9e95-260283a6951e.gif)    | ![Android Login](https://cloud.githubusercontent.com/assets/1282364/11598577/6d2f140e-9a88-11e5-8cd4-1ba8c9cbc603.gif)   |  ![Android Profile](https://cloud.githubusercontent.com/assets/1282364/11598578/6d314ee0-9a88-11e5-9a6c-512a313535ee.gif) |
 
 ----------
+
+## [ignite](https://github.com/infinitered/ignite)
+
+The ideal starting app for React Native, best practices, generators, and more. 
+
+![Welcome Page](https://github.com/infinitered/ignite/blob/master/_art/screens.gif)
+
+

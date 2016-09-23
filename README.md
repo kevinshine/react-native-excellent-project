@@ -38,6 +38,7 @@ A React-Native starter mobile app, or maybe just an example, or maybe a boilerpl
 The ideal starting app for React Native, best practices, generators, and more. 
 
 ***Demo***
+
 ![Welcome Page](https://github.com/infinitered/ignite/blob/master/_art/screens.gif)
 
 ----------
